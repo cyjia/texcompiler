@@ -1,14 +1,12 @@
 # texcompiler
 
-FIXME: description
+A TeX compiler in clojure.
 
 ## Installation
 
 Download from http://example.com/FIXME.
 
 ## Usage
-
-FIXME: explanation
 
     $ java -jar texcompiler-0.1.0-standalone.jar [args]
 
